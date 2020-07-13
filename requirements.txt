@@ -3,5 +3,4 @@ requests
 bs4
 pandas
 mechanize
-time
 validators
