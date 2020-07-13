@@ -1,6 +1,6 @@
 jupyterlab
 requests
-BeautifulSoup
+bs4
 pandas
 re
 webbrowser
