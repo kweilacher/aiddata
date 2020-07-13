@@ -2,7 +2,6 @@ jupyterlab
 requests
 bs4
 pandas
-re
 webbrowser
 mechanize
 time
