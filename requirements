@@ -1,0 +1,9 @@
+jupyterlab
+requests
+BeautifulSoup
+pandas
+re
+webbrowser
+mechanize
+time
+validators
